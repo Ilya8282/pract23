@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice23</string>
+    <string name="btn_on">Вычислить</string>
+    <string name="btn_off">Хешируется</string>
+    <string name="cheh">Хеш-сумма</string>
+    <string name="namber">Число</string>
+</resources>
